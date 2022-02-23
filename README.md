@@ -1,7 +1,5 @@
 <h1 align="center"> Heart disease Prediction 💉</h1><br>
-<br>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anmolmishra99)  
-This notebook looks into using various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes.
+<br>This notebook looks into using various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes.
 
 
 <H3>1. Problem Definition</H3>
