@@ -44,3 +44,8 @@ There is also a version of it available on Kaggle. https://www.kaggle.com/ronitf
     * 6: fixed defect: used to be defect but ok now
     * 7: reversable defect: no proper blood movement when excercising
 14. target - have disease or not (1=yes, 0=no) (= the predicted attribute)
+
+
+<Br>
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at <a href="mailto:mishraanmol258@gmail.com?subject=Hello%20Anmol" target="_top">
+mishraanmol258@gmail.com</a> 
